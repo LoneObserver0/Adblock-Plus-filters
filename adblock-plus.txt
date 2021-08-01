@@ -1,2 +1,3 @@
+[Adblock Plus]
 blog.csdn.net##.recommend-tit-mod
 blog.csdn.net##.recommend-box.insert-baidu-box
