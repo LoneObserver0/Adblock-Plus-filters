@@ -1,2 +1,2 @@
-blog.csdn.net##DIV[class="t0 clearfix"]
-blog.csdn.net##DIV[class="recommend-box"]
+blog.csdn.net##.t0 clearfix
+blog.csdn.net##.recommend-box
