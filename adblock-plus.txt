@@ -1,6 +1,7 @@
 [Adblock Plus]
 blog.csdn.net##.recommend-tit-mod
 blog.csdn.net##.recommend-box.insert-baidu-box
+59.64.78.254##.update-notification.ng-scope
 ! -----以下内容为AdBlock迁移的自定义规则，最后更新于2021-08-01-----
 blog.csdn.net##DIV[class="t0 clearfix"]
 blog.csdn.net##DIV[class="recommend-box"]
